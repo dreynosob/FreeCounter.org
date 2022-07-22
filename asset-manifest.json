@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FreeCounter.org/static/css/main.93669f59.css",
+    "main.js": "/FreeCounter.org/static/js/main.030dcdbd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FreeCounter.org/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/FreeCounter.org/index.html",
+    "main.93669f59.css.map": "/FreeCounter.org/static/css/main.93669f59.css.map",
+    "main.030dcdbd.js.map": "/FreeCounter.org/static/js/main.030dcdbd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FreeCounter.org/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93669f59.css",
+    "static/js/main.030dcdbd.js"
+  ]
+}
